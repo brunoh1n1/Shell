@@ -2,6 +2,10 @@
 # testando muito
 #header
 
+cabecalho
+
+
+rodape
 
 rm -rf saida.status*
 echo "Vamos as informações iniciais..."
