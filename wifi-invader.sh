@@ -1,6 +1,6 @@
 #!/bin/bash
 # testando muito
-
+#header
 
 
 rm -rf saida.status*
